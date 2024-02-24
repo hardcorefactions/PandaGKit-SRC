@@ -1,0 +1,16 @@
+# MESSAGE CONFIGURATION
+NEVER: "Never"
+
+KIT:
+  EQUIP: "&8[&aKits&8] &7Successfully equipped {kit} &7Kit!"
+  COOLDOWN: "&8[&4Kits&8] &7Your still on {kit} Kit cooldown for another &c&l{cooldown_left}&7."
+  DISABLE: "&8[&4Kits&8] &7{kit} &7Kit currently disabled."
+  NO_PERMISSION: "&8[&4Kits&8] &7You can purchase this kit in &bstore.escobar.net&7."
+  CATEGORY_DISABLED: "&8[&4Kits&8] &cThe category of the Kit {kit} is disabled!"
+  NO_PLAYTIME: "&8[&4Kits&8] &cYou didn't unlocked the Kit {kit}! Please wait &l{time}&c!"
+  NO_USES: "&8[&4Kits&8] &cYou don't have more uses for the Kit {kit}!"
+
+CATEGORY:
+  NO_PERMISSION: "&8[&4Kits&8] &7You cannot access this kit category!"
+  EMPTY: "&8[&4Kits&8]] &cThat category is currently empty!"
+  DISABLED: "&8[&4Kits&8] &cThat category is currently disabled!"

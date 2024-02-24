@@ -1,0 +1,25 @@
+# BOOLEAN CONFIGURATION (RELOAD SERVER)
+KIT_COMMAND: true
+KIT_SUB_COMMAND: true
+KIT_MENU: true
+KIT_SIGN: false
+CUSTOM_ENCHANT: true
+
+# MODE CONFIGURATION
+# true: Your inventory is cleared when you equip a kit
+# false: Kit items are added to your inventory
+CLEAR_INVENTORY: false
+
+# MENU CONFIGURATION
+MENU:
+  TITLE: "Select a Kit"
+  ROWS: 3
+  FILL:
+    ENABLE: true
+    MATERIAL: "STAINED_GLASS_PANE"
+    DATA: 7
+
+# GLOW CONFIGURATION
+GLOW:
+  ENCHANTMENT: DURABILITY
+  LEVEL: 10
